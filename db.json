@@ -7,7 +7,6 @@
             "Cedula":"123456",
             "email": "maria.correa@payco.co",
             "Ciudad": "Bello",  
-            "Telefono": "2582463",
             "Celular": "3215468555",
             "Valor": 120000,
             "Descripcion": "Pago Recaudo"
@@ -19,7 +18,6 @@
             "Cedula":"654321",
             "email": "andres.tanga@payco.co",
             "Ciudad": "Caldas",  
-            "Telefono": "2542463",
             "Celular": "3289468555",
             "Valor": 100000,
             "Descripcion": "Pago Recaudo"
@@ -31,7 +29,6 @@
             "Cedula":"654321",
             "email": "andres.tanga@payco.co",
             "Ciudad": "Caldas",  
-            "Telefono": "2542463",
             "Celular": "3289468555",
             "Valor": 100000,
             "Descripcion": "Pago Recaudo"
@@ -43,7 +40,6 @@
             "Cedula":"965874",
             "email": "andres.ruiz@payco.co",
             "Ciudad": "Medellin",  
-            "Telefono": "2547463",
             "Celular": "3289475555",
             "Valor": 90000,
             "Descripcion": "Pago Recaudo"
@@ -55,7 +51,6 @@
             "Cedula":"745218",
             "email": "angeles.abello@payco.co",
             "Ciudad": "Santa Marta",  
-            "Telefono": "2558756",
             "Celular": "3206536985",
             "Valor": 120000,
             "Descripcion": "Pago Recaudo"
@@ -67,7 +62,6 @@
             "Cedula":"965832",
             "email": "juan.valencia@payco.co",
             "Ciudad": "Medellin",  
-            "Telefono": "235623562",
             "Celular": "3289468555",
             "Valor": 168900,
             "Descripcion": "Pago Recaudo"
@@ -79,7 +73,6 @@
             "Cedula":"7451203",
             "email": "Carlos.moreno@payco.co",
             "Ciudad": "Medellin",  
-            "Telefono": "2542463",
             "Celular": "3289418555",
             "Valor": 20000,
             "Descripcion": "Pago Recaudo"
