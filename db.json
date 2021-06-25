@@ -12,14 +12,14 @@
             "Descripcion": "Pago Recaudo"
         },
         {  
-            "Factura": "EP002",
-            "Nombre": "Andres Tanga",
+           "Factura": "EP001",
+            "Nombre": "Alejandra Correa",
             "Tipo de identificacion": "CC",
-            "Cedula":"654321",
-            "email": "andres.tanga@payco.co",
-            "Ciudad": "Caldas",  
-            "Celular": "3289468555",
-            "Valor": 100000,
+            "Cedula":"123456",
+            "email": "maria.correa@payco.co",
+            "Ciudad": "Bello",  
+            "Celular": "3215468555",
+            "Valor": 5000,
             "Descripcion": "Pago Recaudo"
         },
         {  
